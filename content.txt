@@ -1,4 +1,4 @@
-To learn how to modify the file in github throught vs code
+To learn how to modify the file in github through vs code
 First 
     Save the file that You created in vs code
     Pass the command to add in github
